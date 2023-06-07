@@ -1,0 +1,16 @@
+ $data = [
+     ['hasil_kinerja' => 'Guru Kelas 1', 27.8,23.32,23.24,24], 
+	['hasil_kinerja' => 'Guru Kelas 2', 21.73076923,19.15384615,19.46153846,19.34615385], 
+	['hasil_kinerja' => 'Guru Kelas 3', 22.14285714,19,18.92857143,19.21428571], 
+	['hasil_kinerja' => 'Guru Kelas 4 ', 22.66666667,19.38095238,19.23809524,19.04761905],
+	['hasil_kinerja' => 'Guru Kelas 5', 25.47368421,21.57894737,21.63157895,21.89473684], 
+	['hasil_kinerja' => 'Guru Kelas 6', 25.47368421,21.57894737,21.63157895,21.89473684], 
+	['hasil_kinerja' => 'Guru PAI ', 24.65,21.10833333,21.10833333,21.275]  
+  ];
+$data = [
+     ['nama_penyakit' =>'Guru Kelas 1', 27.8,23.32,23.62], 
+   ['nama_penyakit' => 'Guru Kelas 2', 21.73076923,19.15384615,19.40385],
+['nama_penyakit' => 'Guru Kelas 3', 22.14285714,19,18.92857143,19.07143], 
+['nama_penyakit' => 'Guru Kelas 4 ', 22.66666667,19.38095238,19.14286],['nama_penyakit' => 'Guru Kelas 6', 25.47368421,21.57894737,21.76316], ['nama_penyakit' => 'Guru PAI ', 24.65,21.10833333,21.19167],
+	 ['nama_penyakit' => 'Guru Kelas 5', 25.47368421,21.57894737,21.76316]
+  ];
